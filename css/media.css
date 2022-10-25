@@ -53,7 +53,9 @@
   .ymaps-2-1-79-controls__control,
   .ymaps-2-1-79-map-copyrights-promo,
   .ymaps-2-1-79-controls-pane *,
-  .ymaps-2-1-79-searchpanel-pane * {
+  .ymaps-2-1-79-searchpanel-pane *,
+  .ymaps-2-1-79-copyright__wrap
+  {
     display: none;
   }
 
