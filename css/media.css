@@ -50,6 +50,14 @@
   }
 
 
+  .ymaps-2-1-79-controls__control,
+  .ymaps-2-1-79-map-copyrights-promo,
+  .ymaps-2-1-79-controls-pane *,
+  .ymaps-2-1-79-searchpanel-pane * {
+    display: none;
+  }
+
+
   .container {
     padding: 0 50px;
   }
