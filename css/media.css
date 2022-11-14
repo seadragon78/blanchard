@@ -94,7 +94,10 @@
     transition: all .4s ease;
   }
 
-
+  .burger-active .burger__line:first-child,
+  .burger-active .burger__line:last-child {
+    background: var(--semi-violet);
+  }
 
   .burger-active .burger__line:first-child {
     transform: rotate(45deg);
@@ -779,7 +782,6 @@
   }
 
   .burger-active .burger__line:last-child {
-    background: var(--semi-violet);
     transform: rotate(-45deg);
     transform-origin: center;
     transition: transform .4s ease-in-out;
