@@ -9,9 +9,11 @@
 - CSS<br>
 - JavaScript</b>
 
+<br>
+
 Дополнительные библиотеки:
 
-<b>- SwiperSlider
+<b>- SwiperSlider<br>
 - Choises.js</b>
 
 Для проверки работоспособности перейдите, пожалуйста, по ссылке:
