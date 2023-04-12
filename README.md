@@ -4,20 +4,14 @@
 
 При создании использовались инструменты:
 
-<b>
-- HTML<br>
-- CSS<br>
-- JavaScript</b>
-
-
-
-<br />
+- HTML
+- CSS
+- JavaScript
 
 Дополнительные библиотеки:
 
-<b>
-- SwiperSlider<br>
-- Choises.js</b>
+- SwiperSlider
+- Choises
 
 Для проверки работоспособности перейдите, пожалуйста, по ссылке:
 
